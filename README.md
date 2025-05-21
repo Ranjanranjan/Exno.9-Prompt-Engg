@@ -72,6 +72,3 @@ The experiment successfully demonstrated how different prompting techniques affe
 
 
 
-
-# Result:
-
