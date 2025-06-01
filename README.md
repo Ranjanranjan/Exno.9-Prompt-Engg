@@ -23,7 +23,7 @@ Start with basic prompts to produce short clips.
 
 “A person walking in a park.”
 
-https://drive.google.com/file/d/1sczhn6vTQvQmYJaOoDp9exdtx-zFGPSB/view?usp=drive_link
+https://drive.google.com/file/d/1igFomUvociTc9c_c9eJGqk1meG0AVs4e/view?usp=sharing
 
 ## Experiment with More Detailed Prompts:
 Add depth to the prompt using specific scene details.
@@ -31,7 +31,7 @@ Add depth to the prompt using specific scene details.
 
 “A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them.”
 
-https://drive.google.com/file/d/1sczhn6vTQvQmYJaOoDp9exdtx-zFGPSB/view?usp=drive_link
+https://drive.google.com/file/d/1vKvyWw_tLz7BEWXrGJot2r05tcG_DhhT/view?usp=drive_link
 
 ## Add Time and Motion Elements:
 Incorporate motion, timing, and camera movements.
@@ -39,7 +39,7 @@ Incorporate motion, timing, and camera movements.
 
 “A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky.”
 
-https://drive.google.com/file/d/1sczhn6vTQvQmYJaOoDp9exdtx-zFGPSB/view?usp=drive_link
+https://drive.google.com/file/d/1r-7lOibO1GkqHNyA7qqzEdODkXX_G-qe/view?usp=drive_link
 
 ## Test Different Video Styles:
 Use prompts that vary by style (animation, cinematic, artistic).
@@ -47,7 +47,7 @@ Use prompts that vary by style (animation, cinematic, artistic).
 
 “An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people.”
 
-https://drive.google.com/file/d/1sczhn6vTQvQmYJaOoDp9exdtx-zFGPSB/view?usp=drive_link
+https://drive.google.com/file/d/1qmVAAg8xFQyMcCXDxPvxulmuZwUOE2mj/view?usp=drive_link
 
 ## Iterate and Adjust Prompts:
 Refine your prompt based on video results for better pacing, coherence, and realism.
@@ -55,7 +55,7 @@ Refine your prompt based on video results for better pacing, coherence, and real
 
 “A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene.”
 
-https://drive.google.com/file/d/1sczhn6vTQvQmYJaOoDp9exdtx-zFGPSB/view?usp=drive_link
+https://drive.google.com/file/d/1hkwsbUogZHXzEojpb6hOAxMRxirqZ2a9/view?usp=drive_link
 
 ## Generate Multiple Versions:
 Use slight variations in prompt phrasing to observe different outcomes.
